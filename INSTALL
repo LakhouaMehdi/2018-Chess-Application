@@ -1,0 +1,11 @@
+To install this program
+
+Type gtar xvzf Chess_Alpha_src.tar.gz, to extract the files.
+
+the source code will be in the src folder.
+
+Type make clean to empty the bin folder, make to compile and make test, make testpvp or make testcvc to run.
+
+You can also run the program with the command line.
+For more information, please refer to the software specification
+

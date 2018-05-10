@@ -1,0 +1,38 @@
+White: Moved from c2 -> c3
+Black: Moved from e7 -> e5
+White: Moved from d2 -> d4
+Black: Moved from e5 -> e4
+White: Moved from c1 -> f4
+Black: Moved from f8 -> d6
+White: Moved from d1 -> c1
+Black: Moved from e8 -> f8
+White: Moved from g1 -> h3
+Black: Moved from d8 -> e7
+White: Moved from c1 -> c2
+Black: Moved from d6 -> f4 | Captured a Bishop
+White: Moved from h3 -> f4 | Captured a Bishop
+Black: Moved from g8 -> f6
+White: Moved from b2 -> b3
+Black: Moved from e7 -> d6
+White: Moved from g2 -> g3
+Black: Moved from c7 -> c6
+White: Moved from f4 -> g2
+Black: Moved from b7 -> b5
+White: Moved from e1 -> d1
+Black: Moved from c6 -> c5
+White: Moved from h2 -> h3
+Black: Moved from h7 -> h6
+White: Moved from c2 -> c1
+Black: Moved from b5 -> b4
+White: Moved from c1 -> c2
+Black: Moved from a7 -> a6
+White: Moved from b1 -> d2
+Black: Moved from c5 -> d4 | Captured a pawn
+White: Moved from d2 -> e4 | Captured a pawn
+Black: Moved from f6 -> e4 | Captured a Knight
+White: Moved from c2 -> e4 | Captured a Knight
+Black: Moved from d4 -> c3 | Captured a pawn
+White: Moved from d1 -> c2
+Black: Moved from d6 -> d2
+White: Moved from c2 -> b1
+Black: Moved from d2 -> d1

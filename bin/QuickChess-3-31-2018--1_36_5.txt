@@ -1,0 +1,2 @@
+White: Moved from e2 -> e4
+Black: Moved from h7 -> h5

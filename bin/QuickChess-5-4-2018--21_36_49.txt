@@ -1,0 +1,7 @@
+White: Moved from g2 -> g4
+Black: Moved from h7 -> h5
+White: Moved from f2 -> f3
+Black: Moved from g8 -> f6
+White: Moved from g4 -> g5
+Black: Moved from f6 -> h7
+White: Moved from b2 -> b4
