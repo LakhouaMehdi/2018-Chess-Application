@@ -1,6 +1,16 @@
 #ifndef MOVEENTRY_H
 #define MOVEENTRY_H
 
+/*
+ *
+ * Project 1 for EECS 22L, Winter 2018
+ *
+ * Authors: Yuki Hayashi
+ * Date: 1/23/2018
+ *
+ * MoveList.h
+ */
+
 #include "Move.h"
 
 typedef struct MoveEntry MENTRY;
